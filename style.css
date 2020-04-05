@@ -49,7 +49,7 @@ h2 {
 #robots {
   font-size: 30px;
   color: white;
-  background: linear-gradient(red, yellow, orange, green, blue, purple);
+  background: linear-gradient(red, red, red, red, red, red);
   padding: 30px;
   border-radius: 5px;
   text-align: center;
